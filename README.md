@@ -21,8 +21,8 @@ Learn Little everyday
 - https://github.com/practical-tutorials/project-based-learning
 
 
-Grind 100
-- 
+Grind 100 (Concept to learn and implement - Problem statement)
+- Hashmaps - 1. https://leetcode.com/problems/two-sum?envType=problem-list-v2&envId=xoqag3yj
 
 System Design Cheatsheet
 - 
