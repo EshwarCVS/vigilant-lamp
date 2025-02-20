@@ -19,3 +19,10 @@ Learn Little everyday
 - https://github.com/kamranahmedse/developer-roadmap
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit/
 - https://github.com/practical-tutorials/project-based-learning
+
+
+Grind 100
+- 
+
+System Design Cheatsheet
+- 
