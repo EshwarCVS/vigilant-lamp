@@ -1,12 +1,13 @@
 # Roadmap and Resources
 
-Learn Little everyday
-- https://github.com/codecrafters-io/build-your-own-x
+Here are few resrources to learn little everyday
 
+- List of items where you can learn to build something from scratch https://github.com/codecrafters-io/build-your-own-x
+- Learn how to build a database in C https://cstack.github.io/db_tutorial/
 
 ### System Design and Interviews
-- https://github.com/yangshun/tech-interview-handbook
-- https://github.com/donnemartin/system-design-primer
+- Yangshun Tay - https://github.com/yangshun/tech-interview-handbook
+- Donne Martin - https://github.com/donnemartin/system-design-primer
 - https://github.com/alex/what-happens-when
 
 
